@@ -46,7 +46,7 @@ struct LoginScreenUI: View {
             Spacer()
             
             Button(action:{}){
-                Text("Sign in")
+                Text("LogIn")
                     .font(.headline)
                     .foregroundColor(.white)
                     .padding()
